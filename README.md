@@ -1,16 +1,65 @@
-# React + Vite
+# 💰 FinTrack — Personal Finance Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal finance management application built with **React, JavaScript, and Vite**, designed to help users track income, manage expenses, organize budgets, set savings goals, and understand their financial habits.
 
-Currently, two official plugins are available:
+FinTrack provides a centralized financial dashboard with monthly reports, cash-flow visualization, and financial health insights through a clean, intuitive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📸 Application Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. Dashboard
 
-## Expanding the ESLint configuration
+Get a complete overview of your financial activity, including total balance, income, expenses, savings rate, cash flow, and financial health.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![FinTrack Dashboard](docs/screenshots/dashboard.png)
+
+### 2. Transaction Management
+
+Record and review income and expenses with categories, dates, amounts, and transaction statuses.
+
+![FinTrack Transactions](docs/screenshots/transactions.png)
+
+### 3. Category Management
+
+Organize your financial activity using income and expense categories.
+
+![FinTrack Categories](docs/screenshots/categories.png)
+
+### 4. Budget Management
+
+Create monthly spending limits and monitor your budget utilization.
+
+![FinTrack Budgets](docs/screenshots/budgets.png)
+
+### 5. Savings Goals
+
+Set financial targets, track savings progress, manage contributions, and monitor deadlines.
+
+![FinTrack Goals](docs/screenshots/goals.png)
+
+### 6. Financial Reports
+
+Analyze monthly income, expenses, net savings, savings rate, and transaction counts.
+
+![FinTrack Reports](docs/screenshots/reports.png)
+
+---
+
+## ✨ Features
+
+### Financial Dashboard
+- Centralized financial overview.
+- Total balance, income, and expense summaries.
+- Monthly savings rate.
+- Cash-flow visualization.
+- Financial health score.
+
+### Transaction Management
+- Record income and expenses.
+- Assign transactions to categories.
+- Track transaction dates and amounts.
+- View transaction history and status.
+
+### Category Management
+- Organize income and expense categories
